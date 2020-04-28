@@ -10,6 +10,8 @@ public class Shop {
         printParamFridge();
         printParamLamp();
         printParamKettle();
+        Box table = new Box("Table","White");
+        System.out.println(table.getName());
 
     }
 

@@ -9,4 +9,5 @@ import lombok.Setter;
 @Setter
 public class Box {
     private String name;
+    private String color;
 }
